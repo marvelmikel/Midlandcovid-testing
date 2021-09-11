@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://kure-demo.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://kure-demo.myshopify.com/collections/new-offers.atom"/>
+  <title>Kure</title>
+  <updated>2019-01-08T21:59:10-12:00</updated>
+  <author>
+    <name>Kure</name>
+  </author>
+  <entry>
+    <id>https://kure-demo.myshopify.com/products/2241007714368</id>
+    <published>2019-01-08T21:59:10-12:00</published>
+    <updated>2019-01-08T21:59:10-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/products/plaster-machine"/>
+    <title>Plaster machine</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Hansaplast</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0188/0503/0976/products/pdt1.jpg?v=1547027951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hansaplast<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Hansaplast</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://kure-demo.myshopify.com/products/2241007714368</id>
+      <title>Blue / Plastic</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kure-demo.myshopify.com/products/2240999948352</id>
+    <published>2019-01-08T21:58:54-12:00</published>
+    <updated>2019-01-08T21:58:54-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/products/operation-scissors"/>
+    <title>Operation Scissors</title>
+    <s:type>Medical</s:type>
+    <s:vendor>Voberry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0188/0503/0976/products/pdt11.jpg?v=1547027934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voberry<br>
+        <strong>Type: </strong>Medical<br>
+        <strong>Price: </strong>
+            419.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Medical</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Steel</s:tag>
+    <s:tag>Voberry</s:tag>
+    <s:variant>
+      <id>https://kure-demo.myshopify.com/products/2240999948352</id>
+      <title>Silver / Steel</title>
+      <s:price currency="USD">419.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kure-demo.myshopify.com/products/2240998670400</id>
+    <published>2019-01-08T21:58:51-12:00</published>
+    <updated>2019-01-08T21:58:51-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/products/orthopedic-footwear"/>
+    <title>Orthopedic Footwear</title>
+    <s:type>Medical</s:type>
+    <s:vendor>Accu-Chek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0188/0503/0976/products/pdt14.jpg?v=1547027931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Accu-Chek<br>
+        <strong>Type: </strong>Medical<br>
+        <strong>Price: </strong>
+            829.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Accu-Chek</s:tag>
+    <s:tag>Leather</s:tag>
+    <s:tag>Medical</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://kure-demo.myshopify.com/products/2240998670400</id>
+      <title>White / Leather</title>
+      <s:price currency="USD">829.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kure-demo.myshopify.com/products/2240998473792</id>
+    <published>2019-01-08T21:58:50-12:00</published>
+    <updated>2019-01-08T21:58:50-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/products/safe-disposable-gloves"/>
+    <title>Safe Disposable Gloves</title>
+    <s:type>Medical</s:type>
+    <s:vendor>Dr. Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0188/0503/0976/products/pdt15.jpg?v=1547027930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Care<br>
+        <strong>Type: </strong>Medical<br>
+        <strong>Price: </strong>
+            639.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dr. Care</s:tag>
+    <s:tag>Medical</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://kure-demo.myshopify.com/products/2240998473792</id>
+      <title>Blue / Plastic</title>
+      <s:price currency="USD">639.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kure-demo.myshopify.com/products/2240997556288</id>
+    <published>2019-01-08T21:58:47-12:00</published>
+    <updated>2019-01-08T21:58:47-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/products/sleeping-eye-mask"/>
+    <title>Sleeping Eye Mask</title>
+    <s:type>Medical</s:type>
+    <s:vendor>Dr. Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0188/0503/0976/products/pdt18.jpg?v=1547027927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Care<br>
+        <strong>Type: </strong>Medical<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $200</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Dr. Care</s:tag>
+    <s:tag>Medical</s:tag>
+    <s:variant>
+      <id>https://kure-demo.myshopify.com/products/2240997556288</id>
+      <title>Blue / Cotton</title>
+      <s:price currency="USD">189.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://kure-demo.myshopify.com/products/2240997032000</id>
+    <published>2019-01-08T21:58:44-12:00</published>
+    <updated>2019-01-08T21:58:44-12:00</updated>
+    <link rel="alternate" type="text/html" href="https://kure-demo.myshopify.com/products/oxygen-pump"/>
+    <title>Oxygen Pump</title>
+    <s:type>Medical</s:type>
+    <s:vendor>Dr. Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0188/0503/0976/products/pdt20.jpg?v=1547027925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dr. Care<br>
+        <strong>Type: </strong>Medical<br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis.</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $300</s:tag>
+    <s:tag>Dr. Care</s:tag>
+    <s:tag>Medical</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Rubber</s:tag>
+    <s:variant>
+      <id>https://kure-demo.myshopify.com/products/2240997032000</id>
+      <title>Pink / Rubber</title>
+      <s:price currency="USD">279.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
